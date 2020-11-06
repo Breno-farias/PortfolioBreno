@@ -1,0 +1,63 @@
+.body{
+    background-color:#EEEEEE
+}
+
+@font-face{
+   font-family: "Brenofooter"; src: url(../fonts/Cherolina.otf);
+}
+
+.testefooter{
+    font-family: "Brenofooter"; 
+}
+
+.grande{
+    font-size: 3rem;
+}
+
+
+@font-face{
+    font-family: "personal"; src: url(../fonts/GibsterRegular.ttf);
+}
+
+.personal{
+    font-family: "personal";
+}
+
+.fps{
+    background-color:#248854;
+}
+
+.dourado{
+    color: #E0E7A7;
+}
+
+
+.posts{
+    height: 700px;
+    overflow: auto;
+
+}
+
+.roma{
+    background-color: #013871;
+}
+
+.linha{
+    border-color:  #FCB118;
+}
+
+.linha2{
+    color: #FCB118; ; 
+}
+
+@font-face{
+    font-family: "mayara"; src: url(../fonts/Magazine.ttf);
+}
+
+.mayara{
+    font-family: "mayara";
+}
+
+.cinza{
+    color:#6C757D ;
+}
